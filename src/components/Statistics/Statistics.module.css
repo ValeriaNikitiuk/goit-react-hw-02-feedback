@@ -1,0 +1,10 @@
+.positive {
+font-family:fantasy;
+font-size: 40px;
+ color: green ;
+}
+
+.total {
+ font-size: 30px;
+text-shadow: 4px 4px 5px rgb(172, 147, 147);
+}
