@@ -1,0 +1,11 @@
+.options {
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
